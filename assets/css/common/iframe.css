@@ -1,7 +1,5 @@
 .iframe-container {
-    overflow: hidden;
-    padding-top: 150%;
-    position: relative;
+    position: center;
 }
 
 .iframe-container iframe {
